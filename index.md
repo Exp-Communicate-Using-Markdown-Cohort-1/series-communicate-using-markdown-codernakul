@@ -7,3 +7,6 @@ $ pwd
 /home/nakul
 ```
 
+- [x] Work
+- [ ] Work
+- [ ] Work
