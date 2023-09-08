@@ -4,7 +4,6 @@
 
 ```
 $ pwd
-/home/nakul
 ```
 
 - [x] Work
