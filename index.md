@@ -1,3 +1,3 @@
 # Hello World
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image](https://w.wallhaven.cc/full/jx/wallhaven-jxyopy.png)
